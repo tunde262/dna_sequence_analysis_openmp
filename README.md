@@ -2,6 +2,8 @@
 
 Each file in this repository is designed to process large gene datasets and perform parallel DNA analysis using OpenMP. The code was completed as part of a class project in **Parallel, Distributed, and Network programming** and is meant to showcase how parallel programming techniques can accelerate large data process.
 
+![thumbnail](https://github.com/tunde262/dna_sequence_analysis_openmp/blob/main/assets/thumbnail.png?raw=true)
+
 ## Project Goal
 
 The goal of the project is to showcase how different techniques can be used to impact the speed of large data processing. Using OpenMP, this project addresses parallel programming challenges, such as thread safety and workload distribution. 
